@@ -1,4 +1,4 @@
-# Day 04 - ML Pipeline Automation with Makefile
+# Day 05 - ML Pipeline Automation with Makefile
 
 ## Objective
 
